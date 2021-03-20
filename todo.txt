@@ -1,0 +1,12 @@
+------------------------- A FAZER ------------------------
+
+- Verificar se o php não tem funções para substituir as funções de DataFilter e DataValidator
+- Verificar se eu preciso dos arquivos de teste de naveção da raiz do site
+- Trocar todos os nomes que referem a piscinas e trocar por produtos
+- Re-fatorar o banco de dados
+- Não repetir os nomes por padrão no banco
+- listar os itens, Quando clicar em visualizar, mostrar todas caracteristicas e sua opções(UPDATE, DELETE)
+- Cria filtros e validaçõe dos dados antes de serem inseridos no banco
+- Criar um .gitignore para arquivos não necessarios no repositório
+------------------------- FEITOS ------------------------
+

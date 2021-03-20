@@ -1,0 +1,6 @@
+# ignorando arquivos não-necessarios, dentro da pasta database
+
+/database/ProjetoPiscinasDiagram.mwb
+/database/ProjetoPiscinasDiagram.mwb.bak
+/.vscode
+.vscode
