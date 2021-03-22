@@ -1,6 +1,6 @@
 <p align="center">
   <a href="">
-    <img src="img/banner.jpg" height="150" width="200" alt="Unform" />
+    <img src="https://github.com/Gabiruu/Produtos-MVC-POO/blob/master/img/banner.JPG" height="150" width="200" alt="Produtos POO MVC" />
   </a>
 </p>
 
@@ -75,7 +75,7 @@ Não esqueça de alterar a senha e login de acesso ao banco no arquivo [db_class
 
 <p align="center">
   <a href="">
-    <img src="databases/ProjPiscinas_BD_SCHEMA.jpg" height="250" width="100%" alt="Unform" />
+    <img src="https://github.com/Gabiruu/Produtos-MVC-POO/blob/master/databases/ProjPiscinas_BD_SCHEMA.JPG" height="250" width="100%" alt="Produtos POO MVC" />
   </a>
 </p>
 
@@ -91,10 +91,9 @@ Com essas instruções feitas com sucesso, Podemos então começar o uso do proj
 
 <a href="https://github.com/Gabiruu">
  <img style="border-radius: 50%;" src="https://avatars3.githubusercontent.com/u/38928677?s=460&u=61b426b901b8fe02e12019b1fdb67bf0072d4f00&v=4" width="100px;" alt=""/>
- <br />
- </a>
+</a>
 
-🛠️ Feito por <a href="https://github.com/Gabiruu/" >Gabriel Alves Reis</a>
+🛠️ Feito por <a href="https://github.com/Gabiruu/" alt="">Gabriel Alves Reis</a>
 
 📬 Entre em contato!
 
