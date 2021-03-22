@@ -11,7 +11,7 @@
                 <a href='viewController.php?controle=Produto&acao=listarProdutos'>LISTAR PRODUTOS</a>
             </th>
             <th colspan="">
-                <a href='viewController.php?controle=Categoria&acao=listarCategorias'>LISTAR CARACTERISTICAS</a>
+                <a href='viewController.php?controle=Categoria&acao=listarCategorias'>LISTAR CATEGORIAS</a>
             </th>
         </tr>
     </table>

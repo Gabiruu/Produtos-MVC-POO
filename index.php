@@ -8,7 +8,6 @@
  * Diretório Pai - raiz do site
  * Arquivo - index.php
  */
-
 ?>
 
 <!DOCTYPE html>

@@ -3,6 +3,7 @@
 /**
  * @package Produtos-MVC+POO  
  * @author Gabriel Alves Reis
+ * @param bool
  *  
  * Camada - Controllers
  * Diretório Pai - controllers
@@ -13,6 +14,14 @@ require_once 'models/CategoriaModel.php';
 
 class CategoriaController extends db_Class
 {
+    /**
+     * @package Produtos-MVC+POO 
+     * @author Gabriel Alves Reis
+     *  
+     * Camada - Controllers
+     * Diretório Pai - controllers
+     * Arquivo - ProdutoController.php
+     */
     public function loadById($id)
     {
         $sql_query = "SELECT * FROM `tbCategoria` WHERE `tbCategoria`.`idTbCategoria`  = $id;";
